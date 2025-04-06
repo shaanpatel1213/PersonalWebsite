@@ -11,13 +11,13 @@ export default function About() {
 
                 <div className="space-y-6 text-lg leading-relaxed">
                     <p>
-                        Hey! I’m <span className="font-semibold">Shaan Patel</span> — a Computer Science and Mathematics student at Northeastern University,
+                        Hey! {"I’m"} <span className="font-semibold">Shaan Patel</span> — a Computer Science and Mathematics student at Northeastern University,
                         with a minor in Business Administration. I’m passionate about building software that makes a difference — especially at the
                         intersection of AI, backend systems, and great user experiences.
                     </p>
 
                     <p>
-                        I’ve worked at companies like Wayfair and contributed to Northeastern’s CubeSat projects, while also helping 180+ students as a TA.
+                        I’ve worked at companies like Wayfair and contributed to {"Northeastern’s"} CubeSat projects, while also helping 180+ students as a TA.
                         My side projects include <span className="font-medium">TrekAI</span> — an AI-powered travel journaling app, and <span className="font-medium">Husk Sheets</span> — a collaborative spreadsheet engine.
                     </p>
 
@@ -32,12 +32,12 @@ export default function About() {
                 <div className="space-y-6 text-lg leading-relaxed ">
                     <p>
                         I worked at Wayfair as a Software Engineer Co-op from July 2024 to December 2024. My main focus was on improving the efficiency of
-                        inventory management systems and enhancing the overall tech stack used in Wayfair's retail stores.
+                        inventory management systems and enhancing the overall tech stack used in {"Wayfair's"} retail stores.
                     </p>
                     <p>
                         During my time at Wayfair, I worked on a span of projects that help the business improve its business operations.
                         When I initially started I was overwhelmed by the amount of tools and software my team used. My team was the Physical Retail Operations Tech Team.
-                        We had been responsible for all tech in Wayfair's Retails stores and the operations that took place in them.
+                        We had been responsible for all tech in {"Wayfair's"} Retails stores and the operations that took place in them.
                         My team had managed 13 different repos many of which had millions of lines of code.
                         Main responsibility of our team was to maintain and mange inventory systems. We had constant meeting with stakeholders
                         to understand their needs and how we could help them. With these insights we would build out new features and tools to help them.
